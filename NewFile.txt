@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New file Modified in Main branch
+=======
+New file Modified- in first line in Feature2 branch
+>>>>>>> feature2
